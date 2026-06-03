@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arnob</h1>
 <h3 align="center">A Beginner Flutter Developer from Bangladesh 🇧🇩</h3>
 
-<p align="center">
-  <a href="https://github.com/ImArnob">
-    <img src="https://komarev.com/ghpvc/?username=ImArnob&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  </a>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
@@ -73,21 +67,6 @@ A personal portfolio project to showcase profile, skills, and contact informatio
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ImArnob&show_icons=true&theme=tokyonight" alt="Arnob's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImArnob&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImArnob&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
 
 ## 🎯 My Goal
 
@@ -98,8 +77,20 @@ My goal is to become a skilled Flutter developer by building real-world mobile a
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/ImArnob" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-ImArnob-black?style=for-the-badge&logo=github" />
+  <a href="https://www.facebook.com/arnob309" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/nehal-azad-8582381b4/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://github.com/ImArnob">
+    <img src="https://komarev.com/ghpvc/?username=ImArnob&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
   </a>
 </p>
 
