@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arnob</h1>
-<h3 align="center">A Beginner Flutter Developer from Bangladesh 🇧🇩</h3>
-
+<h3 align="center">A Beginner Flutter Developer from Bangladesh</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Flutter+Developer;App+Developer;Learning+Dart+and+Flutter;Building+Cool+Mobile+Apps" />
+</p>
 ---
 
 ## 👨‍💻 About Me
