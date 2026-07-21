@@ -49,11 +49,13 @@ I enjoy turning ideas into real apps and improving my coding skills through prac
 
 ## 📌 Featured Projects
 
----
 
 ### 📺 Live TV App
 A modern and responsive Flutter Live TV streaming application built with a clean UI, category-based filtering, live video playback, and smooth animations.
+
 **Tech Used:** Flutter, Dart, Material 3, Chewie, HTTP, Cached Network Image
+
+---
 
 ### 🌦️ Weather App
 A Flutter weather application that shows real-time temperature and weather information.
@@ -64,7 +66,9 @@ A Flutter weather application that shows real-time temperature and weather infor
 
 ### Daily Task
 Daily Task is a clean and modern Flutter to-do application designed to help users organize their daily tasks, manage upcoming tasks, set reminders, and track progress with a smooth animated user interface.
+
 **Tech Used:** Flutter, Dart, Hive, Hive Flutter, Flutter Animate, Table Calendar, Intl, Flutter Local Notifications, Timezone
+
 ---
 
 ### 💼 Portfolio App
